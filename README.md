@@ -14,7 +14,7 @@ Any other punctuation/special characters will be considered a character contribu
 e.g word-word is one 9 letter word. 
 
 
-Terminators - 
+**Terminators -** 
 Words can be terminated with any of: . , ' ? - ) ; : ! " ...
 Any other characters will be considered as contributing to the length of the word.
 
